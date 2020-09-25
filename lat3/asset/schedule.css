@@ -1,0 +1,144 @@
+main {
+width: 80%;
+margin:0 auto;
+padding: 3%;
+height:80vh;
+}
+main section.first{
+	    width:50%;
+		height: 15vh;
+		float: left;
+}
+
+section.header{
+	background-color:#1D3557;
+	color:white; 
+	width:70%;
+	height:40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size:15pt;
+	margin-bottom: 2%;
+}
+table.table1{
+	width:70%;
+	border-collapse: collapse;
+	border: 1px solid #1D3557;
+	font-family: 'Montserrat', sans-serif;	
+}
+
+table.table1 thead{
+	background-color: #1D3557;	
+}
+
+table.table1 thead tr th{
+	font-weight: 500;
+	color: #F1FAEE;
+	text-align: left;
+	padding-top:3px;
+	padding-bottom: 3px;
+	padding-left:10px;
+	padding-right:10px;
+    word-wrap: break-word;
+}
+
+table.table1 tbody tr td{
+	font-weight: 300;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:10px;
+	padding-right: 10px;
+	border: 1px solid #1D3557;
+	text-align: left;
+}
+
+.test{
+	color:green;
+	border-bottom:3px solid green;
+	width:70%;
+}
+
+p{
+	font-weight: bold;
+}
+
+span{
+	font-weight: bold;
+	color:green;
+}
+
+ul:nth-child(2){
+	list-style-type: none;
+}
+
+p.green{
+	color:green;
+}
+
+p.nospace{
+	margin-top: 0;
+}
+
+main section.second{
+	width:50%;
+		height: 50vh;
+		margin-top: 1%;
+		float: left;
+}
+
+section.bustime{
+	color:black; 
+	text-align: right;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size: 15pt;
+}
+
+section.number{
+	color:black; 
+	text-align: right;
+	font-family: 'Rubik', sans-serif;
+	font-weight: 700;
+	font-size: 110pt;
+	margin-bottom: 2%;
+}
+
+section.caption{
+	color:black; 
+	padding-left: 10px;
+	padding-right: 10px;
+    border-radius: 15px;
+	text-align: left;
+	font-family: 'Rubik', sans-serif;
+	font-weight: 400;
+	font-size: 13pt;
+	background-color: #A8DADC;
+	float: right;
+	width: 40%;
+}
+table.table2{
+    width:100%;
+    border-collapse: collapse;
+    font-family: 'Montserrat', sans-serif;
+}
+table.table2 th{
+    color:black;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 15pt;
+    border-bottom: 3px solid #5d6161;
+    /*border:1px solid black;*/
+}
+table.table2 td{
+    font-weight: 500;
+    font-size: 25pt;
+}
+table.col2 td{
+    font-weight: 300;
+    font-size: 15pt;
+
+}
