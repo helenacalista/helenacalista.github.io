@@ -1,0 +1,150 @@
+.container{
+	width: 1366px;
+}
+
+.title-container{
+	text-align:center;
+	margin-top:5px;
+}
+
+.header-container{
+	display: grid;
+	column-count:2;
+	grid-template-columns:64% auto;
+	grid-column-gap: 70px;
+	margin-left:20%;
+	margin-right:25%;
+}
+
+.deck-left{
+	text-align:justify;
+}
+
+.deck-left h2,
+.deck-left p{
+	display: inline;
+    vertical-align: center;
+}
+
+.note-right{
+	text-align:justify;
+}
+
+.first-content-container{
+	display:grid;
+	column-count:3;
+	grid-template-columns:25% 25% 25%;
+	grid-column-gap: 70px;
+	margin-left:15%;
+	margin-right:15%;
+	overflow: auto;
+
+}
+
+.first-content-part-left{
+	text-align:justify;
+}
+
+.first-content-part-center{
+	margin-top: 40px;
+	text-align:justify;
+}
+.first-content-note-2-right{
+	margin-top: 40px;
+	text-align:justify;
+}
+
+.second-content-container{
+	display:grid;
+	column-count:3;
+	grid-template-columns:25% 25% 25%;
+	grid-column-gap: 70px;
+	margin-left:15%;
+	margin-right:15%;
+	overflow: auto;
+
+}
+
+.second-content-part-left{
+	text-align:justify;
+	margin-top:40px;
+}
+
+.second-content-part-center{
+	text-align:justify;
+}
+
+.second-content-part-center h2,
+.second-content-part-center p{
+	display: inline;
+    vertical-align: center;
+}
+
+.second-content-part-right{
+	text-align:justify;
+}
+
+.second-content-part-right h2,
+.second-content-part-right p{
+	display: inline;
+    vertical-align: center;
+}
+
+.third-content-container{
+	display:grid;
+	column-count:3;
+	
+	grid-column-gap: 70px;
+	margin-left:15%;
+	margin-right:15%;
+	overflow: auto;
+
+}
+
+.third-content-part-left{
+	text-align:justify;
+}
+
+@media (max-width: 340px){
+	.container{
+	width: 100%
+}
+
+	.header-container{
+	display: grid;
+	margin-left:20%;
+	margin-right:25%;
+	
+
+}
+.header-container2{
+	display: grid;
+	column-count:2;
+	margin-left:20%;
+	margin-right:19%;
+}
+
+.deck-full{
+	text-align:justify;
+}
+
+.deck-full h2,
+.deck-full p{
+	display: inline;
+    vertical-align: center;
+}
+.first-content-container-2{
+	display:grid;
+	column-count:3;
+	grid-template-columns:25% 25% 25%;
+	grid-column-gap: 70px;
+	
+	margin-right:15%;
+	overflow: auto;
+
+}
+.deck-left h2,
+.deck-left p{
+	display: inline;
+    vertical-align: center;
+}

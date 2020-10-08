@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Yantramanav&display=swap');
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size:2.744em;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+ 
+
+  font-weight: 300;
+  font-size:18px;
+}
+
+.deck-left h3{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 400;
+	font-size:40px;
+}
+
+.deck-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.note-right{
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 200;
+  font-size:13px;
+  color: gray;
+}
+
+.first-content-part-left h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:20px;
+}
+
+.first-content-part-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.first-content-part-center{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.first-content-note-2-right{
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 200;
+  font-size:13px;
+  color: gray;
+}
+
+.second-content-part-left h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:20px;
+}
+
+.second-content-part-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.second-content-part-left i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.second-content-part-center p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.second-content-part-center h2{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:20px;
+}
+
+.second-content-part-right p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.second-content-part-right h2{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:20px;
+}
+
+.second-content-part-right i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:13px;
+}
+
+.third-content-part-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+.third-content-part-left i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
+}
+
+
+.third-content-part-left h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:20px;
+}
+
+@media (max-width: 340px){
+h1{
+  font-size:2.744em;
+}
+ h2{
+  font-size:1.4em;
+}
+
+.deck-left p{
+	font-size:1.5em;
+}
+
+.deck-full p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:17px;
