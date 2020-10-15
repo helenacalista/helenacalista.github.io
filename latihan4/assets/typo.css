@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Yantramanav&display=swap');
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size:2.744em;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+ 
+
+  font-weight: 300;
+  font-size:1em;
+}
+
+p {
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+	text-indent: 1em;
+	line-height: 1.4em;
+}
+
+.hyphen-table{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+.deck-left h3{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 400;
+	font-size:1em;
+	text-indent: 1em;
+	line-height: 1.4em;
+}
+
+.deck-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+.note-right{
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 200;
+  font-size:0.714em;
+  color: gray;
+  line-height: 1.4em;
+}
+
+.first-content-part-left h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1.96em;
+
+}
+
+.first-content-part-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+.first-content-part-center{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+	line-height: 1.4em;
+}
+
+.first-content-note-2-right{
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 200;
+  font-size:0.714em;
+  color: gray;
+  line-height: 1.4em;
+}
+
+.sidenote{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:0.714em;
+	color: gray;
+	line-height: 1.4em;
+  }
+
+.second-content-part-left h2{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1.96em;
+}
+
+.second-content-part-left i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1.4em;
+}
+
+.second-content-part-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+	text-align:center;
+	line-height: 1.4em;
+}
+
+.second-content-part-extra h2{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1.4em;
+	text-align:center;
+}
+
+.second-content-part-extra p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+	text-align:center;
+	line-height: 1.4em;
+}
+
+
+.second-content-part-center p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+	line-height: 1.4em;
+}
+
+.second-content-part-center h2{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1.4em;
+}
+
+.second-content-part-right p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+	line-height: 1.4em;
+}
+
+.second-content-part-right h2{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1.4em;
+}
+
+.second-content-part-right i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:0.714em;
+}
+
+.third-content-part-left p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+.third-content-part-left i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+
+.third-content-part-left h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1.4em;
+}
+
+.third-content-part-center p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+.third-content-part-center i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+
+.third-content-part-center h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1em;
+}
+.third-content-part-right p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+.link{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+.third-content-part-right i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1em;
+}
+
+
+.third-content-part-right h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1.4em;
+}
+
+.left-content p{
+	text-align:center;
+}
+
+.final-container h3{
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size:1.4em;
+}
+
+
+@media (max-width: 340px){
+h1{
+  font-size:1.728em;
+}
+ h2{
+  font-size:1.2em;
+}
+
+.deck-left p{
+	font-size:1em;
+}
+
+.middle-large-text i{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:1.96em
+;
+}
+.hyphen-table{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 200;
+	font-size:0.714em;
