@@ -1,0 +1,480 @@
+.sectionBg {
+  background-color: #c7edc4;
+  height: auto;
+  position: relative;
+  padding-top: 90px;
+}
+.howTo {
+  width: 100%;
+  max-width: 20em;
+}
+.howToTop {
+  width: 100%;
+  max-width: 25em;
+  border-radius: 2em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.involvedText {
+  color: #545d3f;
+  font-size: 12px;
+}
+.involvedTextBold {
+  font-family: "Open Sans Bold";
+}
+.branchContainer {
+  position: absolute;
+  left: -60px;
+  height: 23em;
+  width: calc(100% + 60px);
+}
+.branchContainer img {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  width: 100%;
+  max-width: 440px;
+}
+.hashtags {
+  margin: 0;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+}
+.hashtagsContainer {
+  margin-top: 13em;
+}
+.monkeyBikeTreeContainer {
+  overflow: hidden;
+  position: absolute;
+  height: 23em;
+  right: 0;
+}
+.monkeyBikeTreeContainer img {
+  width: 100%;
+  max-width: 440px;
+}
+
+.monkeyBikeContainer {
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  width: 14em;
+  transform: translate(0, -12em);
+}
+.monkeyBikeContainer img {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1) translate(-75px, 0);
+}
+.cssSlide {
+  margin-top: 2em;
+  overflow-x: scroll;
+  height: 180px;
+}
+.wwdClass {
+  margin-top: 15em;
+}
+
+.monkeyWave {
+  overflow: hidden;
+  position: absolute;
+  height: 23em;
+  left: 0;
+  transform: translateY(-60px);
+}
+.monkeyWave img {
+  width: 100%;
+  max-width: 440px;
+  transform: translateX(-130px) rotate(20deg);
+}
+.haveFun {
+  margin-top: 7.5em;
+  font-size: 20px;
+}
+
+/* Section 2 */
+.sectionBg2 {
+  background-image: url("../assets/mobile/partners_bg\ -\ Copy.png");
+  background-size: 100% 10em;
+  background-repeat: no-repeat;
+}
+.everyDay {
+  width: 100%;
+  max-width: 440px;
+  margin-top: 5em;
+}
+
+.halfTree {
+  overflow: hidden;
+  position: absolute;
+  height: 42em;
+  right: 0;
+}
+.halfTree img {
+  width: 65em;
+  transform: translateX(9em);
+}
+
+/* Section 3 */
+.sectionBg3 {
+  background-image: url("../assets/mobile/partners_bg\ -\ Copy\ flipped.png");
+  background-size: 100% 10em;
+  background-repeat: no-repeat;
+  height: auto;
+  background-color: #c7edc4;
+  margin-top: 8em;
+}
+
+.involvedIcon {
+  width: 5em;
+  margin-top: 7em;
+}
+.eventsIcon {
+  width: 3.1em;
+  margin-top: 2em;
+}
+.materialIcon {
+  width: 4em;
+  margin-top: 2em;
+}
+.citesIcon {
+  width: 5em;
+  margin-top: 2em;
+}
+
+.partnerText {
+  color: #537653;
+}
+.iconsDesktop {
+  margin-top: 10em;
+}
+
+/* Section 4 */
+.sectionBg4 {
+  background-image: url("../assets/mobile/footer.jpg");
+  background-size: 100% auto;
+  padding-bottom: 2em;
+}
+.footerLogo {
+  opacity: 0.8;
+  width: 12em;
+  margin-top: 12em;
+  margin-bottom: 2em;
+}
+
+.footerLink {
+  font-family: "Open Sans Bold";
+  color: #68988d;
+  font-size: 16px;
+}
+.footerLinkContainer {
+  margin-top: 1em;
+}
+.footerSocialContainer {
+  margin-top: 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footerSmallText {
+  font-size: 8px;
+  color: black;
+  letter-spacing: 0px;
+}
+
+/* Section 4 */
+.section4 {
+  background: url("../assets/mobile/partners_bg.png");
+  height: 120em;
+  background-position: 0em -1em;
+  background-size: 100% 125%;
+}
+.partnersImage {
+  width: 18em;
+  margin-top: 11em;
+}
+.wwfPanda {
+  width: 10em;
+  margin-top: 3em;
+}
+.UNDP {
+  margin-top: 3em;
+}
+.SOS {
+  width: 10em;
+  margin-top: 3em;
+}
+.partnerText {
+  color: #537653;
+}
+.involvedIcon {
+  width: 5em;
+  margin-top: 7em;
+}
+.eventsIcon {
+  width: 3.1em;
+  margin-top: 2em;
+}
+.materialIcon {
+  width: 4em;
+  margin-top: 2em;
+}
+.citesIcon {
+  width: 5em;
+  margin-top: 2em;
+}
+/* Section 5 */
+.section5 {
+  margin-top: -1px;
+  background: url("../assets/mobile/footer.jpg");
+  height: 40em;
+  background-position: 0 30%;
+}
+.footerLogo {
+  opacity: 0.8;
+  width: 12em;
+  margin-top: 12em;
+  margin-bottom: 2em;
+}
+
+.footerLink {
+  font-family: "Open Sans Bold";
+  color: #68988d;
+  font-size: 16px;
+}
+.footerLinkContainer {
+  margin-top: 1em;
+}
+.footerSocialContainer {
+  margin-top: 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footerSmallText {
+  font-size: 8px;
+  color: black;
+  letter-spacing: 0px;
+}
+
+@media (min-width: 992px) {
+  .sectionBg {
+    padding-top: 10em;
+    background-color: #c2e3c0;
+    padding-bottom: 10em;
+  }
+  .involvedBox {
+    height: 20vw;
+    margin: 2em;
+    background-color: #d8ffd6;
+    box-shadow: -1px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .involvedText {
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .howTo {
+    max-width: 35em;
+    width: 50%;
+  }
+  .monkeyBikeTreeContainer {
+    overflow: hidden;
+    position: absolute;
+    height: unset;
+    right: 0;
+    transform: translate(0, -5em);
+  }
+  .monkeyBikeTreeContainer img {
+    width: 100%;
+    transform: translate(12.5em, 0);
+    max-width: 75em;
+  }
+  .monkeyBikeContainer {
+    width: 30em;
+    transform: translate(0, -38em);
+  }
+  .monkeyBikeContainer img {
+    transform: scaleX(-1) translate(-75px, 0);
+  }
+  .hashtagsContainer {
+    margin: 0;
+  }
+  .hashtags {
+    font-size: 32px;
+    line-height: 46px;
+    font-family: "Open Sans Bold";
+  }
+
+  /* Section  4*/
+  .section4 {
+    background: url("../assets/desktop/partners_bg.png");
+    background-size: 100vw 100%;
+    background-position: 0;
+    background-repeat: no-repeat;
+    height: 100em;
+  }
+  .partnersImage {
+    width: 25em;
+    margin-top: 35em;
+    margin-left: 7em;
+  }
+  .partnerCenterDesktop {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .involvedIcon,
+  .eventsIcon,
+  .materialIcon,
+  .citesIcon {
+    margin: 0;
+  }
+  .iconsDesktop {
+    margin-top: 11.5em;
+    display: flex;
+  }
+  .footerLogo {
+    margin: 0;
+  }
+  .footerLink {
+    padding: 0 1em 0 1em;
+  }
+  .footerLinkContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .footerLinkContainer p {
+    margin: 0;
+  }
+  .footerDesktopOnly {
+    margin-top: 8em;
+  }
+  .footerSmallText {
+    font-size: 12px;
+    text-align: right;
+    justify-content: flex-end;
+    color: rgba(0, 0, 0, 0.75);
+  }
+  .section4 {
+    margin-top: -20em;
+  }
+  .monkeyHandsDesktopContainer {
+    overflow: hidden;
+    height: 45em;
+    position: absolute;
+    transform: translateY(30em);
+    right: 0;
+  }
+  .monkeyHandsDesktop {
+    width: 52em;
+    /* margin-right: -6em; */
+    right: 0;
+    transform: scaleX(-1) translateX(-7em);
+    position: absolute;
+  }
+
+  .cssSlide {
+    overflow: visible;
+    display: flex;
+    margin-top: 0;
+    align-items: flex-end;
+  }
+  .cssSlide img {
+    /* width: 100%; */
+    height: 120px;
+  }
+  .haveFun {
+    font-size: 42px;
+    line-height: 54px;
+    margin-top: 0;
+  }
+  .monkeyHandsDesktopContainer2 {
+    height: 27em;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    bottom: 114px;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .monkeyHandsDesktopContainer2 img {
+    width: auto;
+    right: 0;
+    height: 27em;
+    transform: scaleX(1) translateX(10em);
+    position: absolute;
+  }
+  .treeBranchRightEverydayContainer {
+    height: 50em;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 114px;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .treeBranchRightEveryday {
+    width: 42em;
+    right: 0;
+    /* height: 25em; */
+    transform: scaleX(1) translateX(0em);
+    position: absolute;
+  }
+  .relative {
+    position: relative;
+  }
+  .suggestionsTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 3em 0 5em 0;
+  }
+  .suggestion .involvedText {
+    margin-top: 2em;
+  }
+  .oneThingToday {
+    font-size: 30px;
+  }
+
+  .cloud1Container img {
+    width: 100%;
+  }
+  .cloud1Container {
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .cloud2Container img {
+    width: 100%;
+  }
+  .cloud2Container {
+    position: absolute;
+    left: 0;
+    top: 30%;
+    width: 60%;
+  }
+  .cloud1Container {
+    left: 0;
+    width: 40em;
+    right: unset;
+    top: -5em;
+    opacity: 0.5;
+  }
+  .cloud2Container {
+    left: unset;
+    width: 40em;
+    right: 0;
+    top: 20em;
+    opacity: 0.5;
+  }
+  .suggestionsBg {
+    padding-bottom: 15em;
+  }
+}
